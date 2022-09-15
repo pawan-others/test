@@ -1,0 +1,14 @@
+id = eb539b89-e6e9-442a-902b-27c0415fec85
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"23346120-0da35a4d-deff-4491-ba09-b6e5409f01b1","path":"Jenkins.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]
