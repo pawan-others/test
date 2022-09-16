@@ -1,14 +1,17 @@
-id = eb539b89-e6e9-442a-902b-27c0415fec85
+id = ec883883-250b-480f-847d-b181867f9c3c
 
 [relations]
 
 [relations.collections]
 rootDirectory = postman/collections
 files[] = {"id":"23346120-0da35a4d-deff-4491-ba09-b6e5409f01b1","path":"Jenkins.json","metaData":{}}
+files[] = {"id":"564326-333e3ebe-9331-44cb-92ca-380702a81020","path":"Leaking Realtime.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
+type = openapi:3
